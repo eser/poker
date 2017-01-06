@@ -1,0 +1,2 @@
+﻿* server'in bir tek rsa'si olacak. clientlara handshake'de sunucuya ait publickey'i verecek
+* her client'in da kendine ait rsa'si olacak, baglanirken publickey'i sunucuya iletecek, o da client'in objesinde tutacak.

@@ -1,0 +1,41 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PokerServer\Infrastructure\Client.cs">
+    <Files>
+      <File FileName="PokerServer\Infrastructure\Game.cs" Line="16" Column="21" />
+      <File FileName="PokerLibrary\CardCollection.cs" Line="70" Column="14" />
+      <File FileName="PokerLibrary\Ground.cs" Line="1" Column="9" />
+      <File FileName="PokerServer\Infrastructure\Server.cs" Line="75" Column="61" />
+      <File FileName="PokerServer\Infrastructure\Client.cs" Line="217" Column="34" />
+      <File FileName="PokerServer\Program.cs" Line="12" Column="4" />
+      <File FileName="PokerClient\MainWindow.cs" Line="18" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="PokerClient" expanded="True">
+            <Node name="UserInterface" expanded="True" />
+          </Node>
+          <Node name="PokerLibrary" expanded="True" />
+          <Node name="PokerServer" expanded="True" selected="True">
+            <Node name="Infrastructure" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="PokerServer\Infrastructure\Client.cs" line="76" offsetX="965" offsetY="1275" expression="this.m_Stream" liveUpdate="False" />
+    <Watch file="PokerServer\Infrastructure\Client.cs" line="76" offsetX="901" offsetY="1275" expression="_recByte" liveUpdate="False" />
+    <Watch file="PokerServer\Infrastructure\Client.cs" line="124" offsetX="453" offsetY="2091" expression="_ex" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

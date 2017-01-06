@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<accounts>
+	<account username="eser" password="test" />
+	<account username="emir" password="test" />
+	<account username="ozer" password="test" />
+</accounts>
